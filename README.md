@@ -11,4 +11,4 @@
   
 ####  To run this game, first install python 2.7, then install the corresponding version of pygame.After that, double click the mainGame.py, you can play it.
 
-![](http://p1.bpimg.com/4851/314ddf1950c1d65f.png)
+![](http://p1.bqimg.com/567571/ade4625226122214.png)
